@@ -1,7 +1,7 @@
 ### Hi 👋 , JustArra
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=manggaraaaa&show_icons=true&theme=onedark&locale=en" alt="manggaraaaa" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=JustArra&show_icons=true&theme=onedark&locale=en" alt="JustArra" /></p>
 
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JustArra" alt="JustArra" /></a></p>
